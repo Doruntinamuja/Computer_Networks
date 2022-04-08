@@ -3,9 +3,9 @@
 **
 Projekti i dyte ne Rrjeta Kompjuterike
 
-_- Krijimi i client & server side
-- Gjuha Programuese: Javascript 
-- Protokolli: TCP_
+- _Krijimi i client & server side_
+- _Gjuha Programuese: Javascript_ 
+- _Protokolli: TCP_
 
 
 **Grupi 14**
