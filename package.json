@@ -1,0 +1,20 @@
+{
+  "name": "computer_networks",
+  "version": "1.0.0",
+  "description": "**Socket Programming\r **\r Projekti i dyte ne Rrjeta Kompjuterike",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doruntinamuja/Computer_Networks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doruntinamuja/Computer_Networks/issues"
+  },
+  "homepage": "https://github.com/Doruntinamuja/Computer_Networks#readme"
+}
